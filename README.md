@@ -6,7 +6,7 @@ Endpoints:
 http://localhost:8080/data/import
 
 2. To calculate the minimum distance
-http://localhost:8080/distance/calculate_distance
+http://localhost:8080/distance/calculate
 
 Project Design and Tools Used:
 1. Dependency and build management - maven.
@@ -18,7 +18,7 @@ Project Design and Tools Used:
 
 
 Areas to Improve:
-1. Could have used JSP servlet and spring Model View resolver (Haven’t used MVC for application development – Have exposed the rest services which bill be used by the Angular application for view).
+1. Could have used JSP servlet and spring Model View resolver (Haven’t used MVC for application development – Have exposed the rest services which will be used by the Angular application for view).
 2. Caching could be implemented to prevent repetitive computation in a session.
 3. Swagger framework can be used to test the exposed rest service.
 4. Exception Handling with resource bundle to delegate appropriate error message.
