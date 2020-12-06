@@ -24,7 +24,7 @@ public class TestDijkstraAlgorithm {
 		PlanetGraph graph = new PlanetGraph(nodes, Routes);
 		DijkstraAlgorithm dijkstra = new DijkstraAlgorithm(graph);
 		dijkstra.execute(nodes.get(0));
-		LinkedList<Planet> path = dijkstra.getPath(nodes.get(10));
+		LinkedList<Planet> path = dijkstra.getPath(nodes.get(18));
 
 		assertNotNull(path);
 		assertTrue(path.size() > 0);

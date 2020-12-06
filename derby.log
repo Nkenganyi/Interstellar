@@ -1,13 +1,13 @@
 ----------------------------------------------------------------
-Thu Dec 03 15:10:31 SAST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0176-28b9-ab51-000005638000 
-on database directory memory:/home/abel/git/vaadin/Interstellar/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3d4eac69 
-Loaded from file:/home/abel/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+Sun Dec 06 15:08:24 SAST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0176-382a-e256-000009009b50 
+on database directory memory:/home/nkeng/codes/assessment/keng-project/Interstellar/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@55054057 
+Loaded from file:/home/nkeng/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
 java.vendor=Ubuntu
-java.runtime.version=11.0.9.1+1-Ubuntu-0ubuntu1.20.04
-user.dir=/home/abel/git/vaadin/Interstellar
+java.runtime.version=11.0.9.1+1-Ubuntu-0ubuntu1.18.04
+user.dir=/home/nkeng/codes/assessment/keng-project/Interstellar
 os.name=Linux
 os.arch=amd64
-os.version=5.4.0-54-generic
+os.version=5.4.0-56-generic
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
